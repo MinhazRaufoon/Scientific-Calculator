@@ -17,7 +17,7 @@
  </ul>
 
 <h3>Screenshots</h3>
-<img src="http://i.imgur.com/EKcc0Y9.png" width="800" height="400">
+<img src="http://i.imgur.com/EKcc0Y9.png" width="800" height="600">
 <h3>Limitations</h3>
 <ul>
 <li>Contains minor bugs</li>
