@@ -3,6 +3,9 @@
 <h3>Description</h3>
 <p>This project implements a scientific calculator which can solve complex expressions with scientific operators.</p>
 
+<h3>Course:</h3>
+<ul><li>CSE-2112: Object Oriented Programming Lab</li></ul>
+
 <h3>Language used</h3>
 <ul><li>Java</li></ul>
 
