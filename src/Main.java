@@ -5,6 +5,8 @@ public class Main {
         try{
             new WINDOW();
         }
-        catch(Exception e) {}
+        catch(Exception e) {
+        	e.printStackTrace();
+        }
     }
 }

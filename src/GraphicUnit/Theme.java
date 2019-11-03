@@ -10,7 +10,7 @@ final class Theme extends JLabel
         this.setBounds(15, 20, 550, 210);
         this.setEnabled(true);
         this.setOpaque(false);
-        ImageIcon z = new ImageIcon(getClass().getResource("back2_2.png"));
+        ImageIcon z = new ImageIcon("./back2_2.png");
         this.setIcon(z);  
     }
 }
